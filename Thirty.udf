@@ -8,7 +8,7 @@
         <Android_PackageName Value="org.cocos.Thirty" />
         <AndroidkeyStore Value="" />
         <AndroidVersion Value="" />
-        <iOS_Target Value="Thrity-mobile" />
+        <iOS_Target Value="Thirty-mobile" />
         <iOS_BundleID Value="" />
         <Platform Value="None" />
         <RunPlatform Value="Windows" />

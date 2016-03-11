@@ -1,0 +1,9 @@
+﻿  AppDelegate.cpp
+  HelloWorldScene.cpp
+  main.cpp
+e:\github\thirty\classes\appdelegate.cpp(40): warning C4305: “参数”: 从“double”到“float”截断
+  60 File(s) copied
+AppDelegate.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 E:\GitHub\Thirty\proj.win32\Debug.win32\Thirty.lib 和对象 E:\GitHub\Thirty\proj.win32\Debug.win32\Thirty.exp
+  Thirty.vcxproj -> E:\GitHub\Thirty\proj.win32\Debug.win32\Thirty.exe
+  0 File(s) copied
