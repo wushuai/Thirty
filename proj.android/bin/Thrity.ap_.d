@@ -1,0 +1,20 @@
+E:\CocosProjects\Thrity\proj.android\bin\Thrity.ap_ \
+ : E:\CocosProjects\Thrity\proj.android\res\drawable-hdpi\icon.png \
+E:\CocosProjects\Thrity\proj.android\res\drawable-hdpi\icon1.png \
+E:\CocosProjects\Thrity\proj.android\res\drawable-ldpi\icon.png \
+E:\CocosProjects\Thrity\proj.android\res\drawable-ldpi\icon1.png \
+E:\CocosProjects\Thrity\proj.android\res\drawable-mdpi\icon.png \
+E:\CocosProjects\Thrity\proj.android\res\drawable-mdpi\icon1.png \
+E:\CocosProjects\Thrity\proj.android\res\values\strings.xml \
+E:\CocosProjects\Thrity\proj.android\bin\res\drawable-hdpi\icon.png \
+E:\CocosProjects\Thrity\proj.android\bin\res\drawable-hdpi\icon1.png \
+E:\CocosProjects\Thrity\proj.android\bin\res\drawable-ldpi\icon.png \
+E:\CocosProjects\Thrity\proj.android\bin\res\drawable-ldpi\icon1.png \
+E:\CocosProjects\Thrity\proj.android\bin\res\drawable-mdpi\icon.png \
+E:\CocosProjects\Thrity\proj.android\bin\res\drawable-mdpi\icon1.png \
+E:\CocosProjects\Thrity\proj.android\assets\res \
+E:\CocosProjects\Thrity\proj.android\assets\res\background.jpg \
+E:\CocosProjects\Thrity\proj.android\assets\res\cow.png \
+E:\CocosProjects\Thrity\proj.android\assets\res\HelloWorld.png \
+E:\CocosProjects\Thrity\proj.android\assets\res\MainScene.csb \
+E:\CocosProjects\Thrity\proj.android\bin\AndroidManifest.xml \
